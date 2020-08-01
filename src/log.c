@@ -20,6 +20,14 @@
  * IN THE SOFTWARE.
  */
 
+/**
+ * MODIFICATIONS
+ *
+ * I made some changes to rxi's original version of this.  I made it so that
+ * full file paths are not printed in log entries.
+ * - Addison Schuhardt (2020)
+ */
+
 #include "log.h"
 
 #include <stdarg.h>

@@ -68,3 +68,6 @@ be used when printing.
 ## License
 This library is free software; you can redistribute it and/or modify it under
 the terms of the MIT license. See [LICENSE](LICENSE) for details.
+
+## Modifications from original by rxi
+I removed file paths from the log entries for the sake of de-cluttering the console.  I've noted this in each of the source files. - Addison Schuhardt
